@@ -1,0 +1,15 @@
+{
+  "name": "khoros-chalktalk",
+  "version": "0.0.1",
+  "description": "Khoros bridge for Ken Perlin's Chalktalk.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Scott Garner",
+  "license": "ISC",
+  "dependencies": {
+    "khoros-client": "git+https://github.com/scottgarner/khoros-client.git",
+    "ws": "^1.1.1"
+  }
+}
